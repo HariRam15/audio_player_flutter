@@ -1,6 +1,7 @@
 # audio_player_flutter
 
 A new Flutter project.
+<img src="assets/images/Audio Player App.png">
 
 ## Getting Started
 
